@@ -1,0 +1,80 @@
+{
+  "Header區域": "////////////////////////////////////////////////////////////",
+  "Header.About": "ABOUT US",
+  "Header.Our_Mission": "OUR MISSION",
+  "Header.Our_Work": "OUR WORK",
+  "Header.Our_Team": "OUR TEAM",
+  "Header.Contact": "CONTACT",
+  "Header.Donate": "Donate",
+  "Banner.Title": "Our ocean, one future. Palau holds us together.",
+  "Banner.Btn": "SUBSCRIBE",
+  "Donate.Title": "MAKE A DIFFERENCE TODAY",
+  "Donate.Description": "Our focus is the ocean. And our community is every one of us who depends upon her.",
+  "Donate.Learn_More": "Learn More",
+  "Donate.DONATE_NOW": "DONATE NOW",
+  "Donate.Give_in_honour": "Give in honour of Palau",
+  "About.Title": "We Save the Ocean with Blockchain Technologies",
+  "About.Description1": "POF (Palau Ocean Foundation) was founded on an underlying principle that building collaborative partnerships and working with Palau authorities, community, and sponsorships.",
+  "About.Description2": "We focus our collective expertise on emerging threats to generate cutting edge solutions and better strategies for implementation.",
+  "About.Description3": "We apply blockchain technologies to our business model, to serve donors and partners who are passionate about the future of our ocean, as well as enables us to increase the capacity of conservation organizations, host various projects and funds, and effectively connect regional and community-based non-profits with the support that they need. ",
+  "About.Description4": "The non-profit operational model of POF is aiming to become one of the world’s leading Ocean related NPO to create a win-win-win situation between the environment, government, and local habitant.",
+  "Our_Mission.Title": "Our Mission",
+  "Our_Mission.subTitle": "Our vision is for Palau Island to have a healthy and resilient ocean which will support human and non-human life in Palau for posterity.",
+  "Our_Mission.Card1.Title": "The Land",
+  "Our_Mission.Card1.subTitle": "Sign MOU or agreement with the Palau Government on chartered wetland management.",
+  "Our_Mission.Card2.Title": "The Ocean",
+  "Our_Mission.Card2.subTitle": "Form strategic alliance with carbon credit related business, developing verification methodology for blue carbon credit and ocean protection.",
+  "Our_Mission.Card3.Title": "The People",
+  "Our_Mission.Card3.subTitle": "Improve the standard of living of the communities on the perimeter by creating jobs and granting scholarships.",
+  "Our_Work.Title": "Our Work",
+  "Our_Team.Title": "Board Members",
+  "Our_Team.subTitle": "The Palau Ocean Foundation’s Board of Directors oversees the organization’s activities and finances,representing multiple disciplines including international law and policy, marine science, business, and philanthropy.",
+  "Our_Team.Member1.Name": "Terrence Ruluked",
+  "Our_Team.Member2.Name": "Glenn Seid",
+  "Our_Team.Member3.Name": "Jeffrey Titiml",
+  "Our_Team.Member1.Description": "Special Adviser to the President of the Republic of Palau",
+  "Our_Team.Member2.Description": "Special Adviser to the President of the Republic of Palau",
+  "Our_Team.Member3.Description": "Special Adviser to the President of the Republic of Palau",
+  "Our_Work.Description": "We aim to mobilize resources to provide positive feedback to the Palauan islands.",
+  "Our_Work.subTitle1": "Rewilding & Ecotourism",
+  "Our_Work.subTitle2": "Regeneration and Sea Turtle Rescue Center",
+  "Our_Work.subTitle3": "PALAU NFT",
+  "Our_Work.subTitle4": "Blue Carbon Credit Verification",
+  "Our_Work.subTitle5": "Local Community Programs",
+  "Our_Work.subTitle6": "Research Institute",
+  "Our_Work.subTitle7": "Scholarships Program",
+  "Our_Work.Modal.Title1":"Rewilding & Ecotourism",
+  "Our_Work.Modal.Description1_1":"As we move towards a more sustainable future, ecotourism is becoming more popular allowing travelers to connect with nature and protect it while it’s there. Being among the most popular travel destinations in the world, there are many places on Palau island worth promoting ecotourism.",
+  "Our_Work.Modal.Description1_2":"POF dedicates ourselves to rewild sea animals as well as launches several educational ecotourism projects, such as inviting the visitor or volunteers to our organization which can observe sea turtles in the shelter, arranging the vet to explain that turtles stranded or injured treatment, going to the appropriate area to participate turtle rewilding.",
+  "Our_Work.Modal.Title2":"Regeneration and Sea Turtle Rescue Center",
+  "Our_Work.Modal.Description2_1":"POF dedicated to the rescue and rehabilitation of sea turtles. We’ve set up a sea turtle rescue center for doing research and monitoring nesting turtles. For example, we provide medical materials and food for injured turtles so that they can receive the most proper care. ",
+  "Our_Work.Modal.Title3":"PALAU NFT",
+  "Our_Work.Modal.Description3_1":"POF champions our cause using innovative, cutting-edge technologies that are becoming increasingly popular worldwide, collaborating with creators and major brands to elevate our organization’s visibility and reach. Acquiring any NFT directly through POF, the final sale price will be donated to our organization on protecting the ocean and increasing the living standard of Palauan.",
+  "Our_Work.Modal.Title4":"Blue Carbon Credit Verification",
+  "Our_Work.Modal.Description4_1":"Since there has not been any valid blue carbon credit verification methodology in practice, POF would like to seize this opportunity to develop its own, which will enable POF to revitalize the carbon sinks manages, then trade these high-quality blue carbon credits.",
+  "Our_Work.Modal.Description4_2":"The earnings will be fully used to support domestic and international efforts on the projects of ocean protection and net-zero carbon emissions by 2050, as well as on improving the living standard of the people of Palau living on the perimeter of the reserves managed by POF.",
+  "Our_Work.Modal.Title5":"Local Community Programs",
+  "Our_Work.Modal.Description5_1":"POF aims to support our local communities and their work to make the Island a better place to live.",
+  "Our_Work.Modal.Description5_2":"We’re committed to the social wellbeing of our residents, workers and visitors, and supporting our vibrant local communities.",
+  "Our_Work.Modal.Title6":"Research Institute",
+  "Our_Work.Modal.Description6_1":"POF seeks to establish its own think tank/ research institute, to tackle on issues that are related to the missions of POF. By working with world renown scientists and organizations, it will further enhance Palau's international exposure.POF also shares the concern of the future of the Dolphins Pacific. POF considers itself the ideal organization and has the responsibility to care of the future of the dolphins and the environment of the area.",
+  "Our_Work.Modal.Title7":"Scholarships Program",
+  "Our_Work.Modal.Description7":"Scholarships will be granted in the name of Palau, in order to provide better education to the future generations and to encourage them to devote their talents to fields such as ocean protection.",
+  "Subscribe.Title": "Subscribe Us. PALAU OUR FUTURE!"
+  ,"Contact.Title":"Contact Us"
+  ,"Contact.subTitle":"Get in touch with us directly by using the contact form below"
+  ,"Contact.Placeholder.Name":"Your Name *"
+  ,"Contact.Placeholder.Email":"Your Email *"
+  ,"Contact.Placeholder.Phone":"Your Phone *"
+  ,"Contact.Placeholder.Message":"Your Message *"
+  ,"Contact.SendMessage":"Send Message"
+
+  ,"Footer.Locations.Title":"Locations"
+  ,"Footer.Locations.Description":"Send Message"
+  ,"Footer.Connect_With_us.Title":"Connect With Us"
+  ,"Footer.Connect_With_us.PlaceHolder.Search":"Search"
+  ,"Footer.Bottom.Privacy_Policy":"Privacy Policy"
+  ,"Footer.Bottom.Term_of_Use":"Privacy Policy"
+  ,"Footer.Bottom.Copyright":"Copyright © Your Website 2020"
+  ,"Footer.Bottom.ACT":"ACT is a 501(c)3 Non-Profit Organization"
+}
